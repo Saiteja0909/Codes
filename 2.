@@ -1,0 +1,42 @@
+#+-*/ operators
+def add(x,y):
+    return(x+y)
+def sub(x,y):
+    return(x-y)
+def mul(x,y):
+    return(x*y)
+def div(x,y):
+    return(x/y)
+x=int(input())
+y=int(input())
+
+
+#increment and decrement operators
+++ and --
+
+
+#equal and not equal
+== !=
+
+#
+if(x==y):
+  print(equal)
+else:
+  print(not equal)
+  
+#
+x nor y
+x or y
+not x
+
+#
+<,<==, >, >==
+
+#
+if(x>y):
+    print(greater)
+elif(x<y):
+    print(smaller)
+else:
+    print(equal)
+  
