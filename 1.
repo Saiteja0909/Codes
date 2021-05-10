@@ -1,0 +1,37 @@
+#classes and objects
+class person():
+    def __init__(self,name,age):
+        self.name=name
+        self.age=age
+p=person("ram",28)
+print(p.name)
+print(p.age)
+        
+        
+#name
+name=input()
+print(name)
+
+
+#single,multi lines
+\n for a new line
+
+#variable types
+python variables are user friendly so you can assign directly
+
+#local,global variables
+x=5
+def fn():
+    y=7
+    print(x)
+    print(y)
+print(x)
+fn()
+
+
+#name
+def person(x):
+    print(x)
+
+name="Ram"
+person(name)
