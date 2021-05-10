@@ -1,0 +1,54 @@
+#
+for i in range(10):
+    print("Bright IT career")
+    
+#
+x=0
+while(0<=x<=20):
+    print(x)
+    x+=1
+
+#
+== !=
+
+#
+if(num%2)==0:
+  even
+  
+  
+#
+print(max(arr))
+
+#
+for i in range(10,100):
+    if(i%2==0):
+        print(i)
+        
+#
+x = 23
+if x > 1:
+   for n in range(2, x):
+      if (x % n) == 0:
+         print(x, "is not prime")
+         print(n, "times", x // n, "is", x)
+         break
+   else:
+      print(x, "is a prime number")
+      
+ #
+ x="121"
+x=list(x)
+if(x==x[::-1]):
+    print("palindrome")
+    
+#
+if(x>y):
+    if(x>z):
+        print("x is largest")
+    else:
+        print("z")
+else:
+    if(y>z):
+        print("y is largest")
+    else:
+        print("z")
